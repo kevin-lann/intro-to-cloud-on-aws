@@ -3,6 +3,6 @@
   "Statement": {
     "Effect": "Allow",
     "Action": "sts:AssumeRole",
-    "Resource": "arn:aws:iam::975050181034:role/ec2-role"
+    "Resource": "arn:aws:iam::982534371159:role/EC2_role"
   }
 }
