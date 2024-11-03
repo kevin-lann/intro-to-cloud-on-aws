@@ -69,7 +69,7 @@ aws lambda invoke --function-name <function-name> --payload fileb://input.json o
 
 ## 1. Create the API
 
-1. Create a REST API in the API Gateway Console named `ProductOrdersAPI`
+1. Create a REST API in the API Gateway Console named ` `
 2. Create a new resource `/orders` and enable CORS
 3. Create a `POST` method for `/orders` integrated with the `SubmitOrderFunction`
 4. Enable a Lambda proxy integration
